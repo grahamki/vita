@@ -172,3 +172,4 @@ cv2.destroyAllWindows() #oqjeofiqjwe
 #
 #;oiqdjfqw --- IGNORE 
 #careafqewf
+#1poijf;qoew;f
