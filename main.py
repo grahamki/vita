@@ -170,4 +170,4 @@ cap.release()
 cv2.destroyAllWindows() #oqjeofiqjwe
 #oid
 #
-#;oiqdjfqw --- IGNORE ---
+#;oiqdjfqw --- IGNORE 
